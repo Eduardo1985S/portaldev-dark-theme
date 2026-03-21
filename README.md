@@ -65,6 +65,8 @@ Contribuições são bem-vindas! Se encontrou algum problema ou tem sugestões:
 1. Abra uma [issue](https://github.com/Eduardo1985S/portaldev-dark-theme/issues)
 2. Envie um [pull request](https://github.com/Eduardo1985S/portaldev-dark-theme/pulls)
 
+---
+
 <div align="center">
 
 Feito com 💜 por [PortalDev](https://github.com/Eduardo1985S)
