@@ -3,7 +3,7 @@
   "displayName": "PortalDev Dark Theme",
   "publisher": "portaldev",
   "description": "PortalDev Dark Theme é um tema escuro moderno, limpo e altamente legível para o Visual Studio Code.",
-  "version": "0.0.6",
+  "version": "0.0.7",
   "icon": "./img/logo.jpg",
   "engines": {
     "vscode": "^1.110.0"
